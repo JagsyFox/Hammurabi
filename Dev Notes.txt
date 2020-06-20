@@ -1,0 +1,55 @@
+Label names - 
+lblYear for year count int
+
+lblStarved to use the Population class starved method
+
+lblInflux for people coming in to the city
+
+lblPopulation is current population
+
+lblAcres is current acres owned
+
+lblFarmed is how many bushels per acre harvested
+
+lblRats is how many bushels were consumed by rats
+
+lblBushels is how many bushels are owned
+
+lblLandVal dusplays current land value 
+
+lblBushDisplay & lblLandDisplay will show values after submitting
+
+txtSellLand - to sell, + to buy
+txtBushels is how many - to feed
+txtSeed + is to plant acres with seed
+
+        int bushelsGiven;
+        int acresBought;
+        int seedPlanted;
+
+
+
+******************************************************************************************************************************************************************************************
+Try your hand at governing ancient Sumeria successfully for a 10 year term of office.
+Hammurabi (or, the game Hamurabi), one of the earliest computer games, is the great granddaddy of strategy and resource allocation games such as Civilization.
+Hammurabi is named for the second millenium B.C. Babylonian king recognized for codifying laws, known as The Code of Hammurabi.
+The game of Hammurabi lasts 10 years, and each year you determine how to allocate your scarce bushels of grain: buying and selling acres of land, feeding your population,
+and planting seeds for next year's crops
+The Rules:
+1.	The game lasts 10 years, with a year being one turn.
+2.	Each year, enter how many bushels of grain to allocate to buying (or selling) acres of land, feeding your population, and planting crops for the next year.
+3.	Each person needs 20 bushels of grain each year to live and can till at most 10 acres of land.
+4.	Each acre of land requires one bushel of grain to plant seeds.
+5.	The price of each acre of land fluctuates from 17 bushels per acre to 26 bushels.
+6.	If the conditions in your country ever become bad enough, the people will overthrow you and you won't finish your 10 year term.
+7.	If you make it to the 11th year, your rule will be evaluated and you'll be ranked against great figures in history.
+The Basic Strategy:
+1.	Start with trying to feed all, or most, of your population 20 bushels of grain per person
+2.	Try to plant seeds on all of your land, assuming you have enough people and enough grain.
+3.	Last, if you have grain remaining, you might spend some buying additional acres of land, especially if the price is right. If you didn't have enough grain for food
+and seed, you may need to sell some of your land, hopefully, at a good price.
+Along the way, you'll deal with famine, plagues, fluctuating crop yields and varying prices for land.
+The object of the game is to last 10 years to the end of your term and to leave the city better off than how you found it. 
+Leaders are evaluated based on how many people starved during one's leadership, and how much land per person remains after the end of the 10 year term.
+******************************************************************************************************************************************************************************************
+
